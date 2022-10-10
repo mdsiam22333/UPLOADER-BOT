@@ -3,8 +3,8 @@
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL Downloader"],
   "success_url": "http://t.me/url_downloder12_bot",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/url_downloder12_bot",
+  "website": "https://github.com/https://UrlUploder14_bot",
+  "repository": "https://github.com/UrlUploder14_bot/url_downloder12_bot",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
